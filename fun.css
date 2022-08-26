@@ -1,0 +1,30 @@
+nav{
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+   
+}
+header {
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+    align-items: center;
+}
+a {
+    text-decoration: none;
+    padding: 40px;
+    color: white;
+}
+.hi {
+    padding-right: 800px;
+    padding-left: 50px;
+    display: inline;
+}
+.tag {
+    display: inline;
+    color: white;
+}
+.new {
+    color: orange;
+    font-size: 20px;
+}
